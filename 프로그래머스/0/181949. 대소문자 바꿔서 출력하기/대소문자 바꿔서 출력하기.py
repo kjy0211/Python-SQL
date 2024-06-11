@@ -11,3 +11,7 @@ for i in str:
         result += i
         
 print(result)
+
+
+
+# print(''.join(x.upper() if x == x.lower() else x.lower() for x in input()))
